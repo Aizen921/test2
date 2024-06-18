@@ -1,0 +1,5 @@
+com\test2\test2\controllers\UserController.class
+com\test2\test2\Test2Application.class
+com\test2\test2\DAO\UserDAO.class
+com\test2\test2\entities\User.class
+com\test2\test2\services\UserService.class
